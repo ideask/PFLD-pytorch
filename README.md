@@ -5,6 +5,7 @@ Implementation of  PFLD A Practical Facial Landmark Detector by pytorch.
 #### install requirements
 
 ~~~shell
+python3.7 CUDA10.0  cudnn 7.5.0
 pip3 install -r requirements.txt
 ~~~
 
